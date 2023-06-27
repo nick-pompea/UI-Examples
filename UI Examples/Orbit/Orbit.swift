@@ -16,15 +16,15 @@ struct Orbit: View {
     
     
     
-//    private var items = [
+    private var items = [
 //        navViewItems(title: "Design", Link: { AnyView(Orbit_Design()) }),
 //        navViewItems(title: "Design", Link: { AnyView(Orbit_Design()) })
-////    "Design",
-////    "Development",
-////    "Book",
-////    "Assemble",
-////    "Gather"
-//    ]
+    "Design",
+    "Research",
+    "Development",
+    "Testing",
+    "Assemble",
+    ]
     
     
    
@@ -40,14 +40,14 @@ struct Orbit: View {
                 VStack(alignment: .leading){
                     Text("Mission")
                         .textCase(.uppercase)
-                    Text("Six Steps \nto Orbit")
+                    Text("Five Steps \nto Launch")
                         .textCase(.uppercase)
                         .font(.system(size: 50))
                     Spacer()
-//                    ForEach(items, id: \.self) {item in
-//                        Orbit_Button(text: item.title, iteration: 1, destination2: { AnyView(Orbit_Design()) })
-//                        
-//                    }
+                    ForEach(items, id: \.self) {item in
+                        Orbit_Button(text: item, iteration: (items.firstIndex(of: item) ?? 1) + 1)
+                        
+                    }
                     
                 }
                 .padding()

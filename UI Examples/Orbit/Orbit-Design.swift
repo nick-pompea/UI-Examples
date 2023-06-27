@@ -32,8 +32,8 @@ struct Orbit_Design: View {
                     
                     
                     VStack{
-                        Text("TEEHEHEHEHEHEHehehehehehe ")
-                        Text("smalaleleleleheherhrhrhrrh")
+                        Text("test ")
+                        Text("test")
                         Spacer()
                         Image(systemName: "arrow.forward.circle")
                         

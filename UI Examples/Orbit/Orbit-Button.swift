@@ -10,14 +10,13 @@ import SwiftUI
 struct Orbit_Button: View {
     let text: String
     let iteration: Int
-    let destination2: () -> AnyView
+//    let destination2: () -> AnyView
     
     
     
     var body: some View {
         
-        NavigationLink {
-destination2()
+        Button {
         } label: {
             VStack(spacing: 0){
                 Rectangle()
@@ -48,6 +47,6 @@ destination2()
 
 struct Orbit_Button_Previews: PreviewProvider {
     static var previews: some View {
-        Orbit_Button(text: "Design", iteration: 1, destination2: { AnyView(Orbit_Design()) })
+        Orbit_Button(text: "Design", iteration: 1)
     }
 }

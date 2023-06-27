@@ -11,6 +11,12 @@
 		D86ACE752A4B82FC0086650C /* CircleGrade.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE742A4B82FC0086650C /* CircleGrade.swift */; };
 		D86ACE772A4B831A0086650C /* CircleInCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE762A4B831A0086650C /* CircleInCircle.swift */; };
 		D86ACE792A4B83240086650C /* SquareGrade.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE782A4B83240086650C /* SquareGrade.swift */; };
+		D86ACE972A4B84550086650C /* Animating gestures .swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE962A4B84550086650C /* Animating gestures .swift */; };
+		D86ACE992A4B846E0086650C /* AnimatingGestures2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE982A4B846E0086650C /* AnimatingGestures2.swift */; };
+		D86ACE9B2A4B84800086650C /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE9A2A4B84800086650C /* Gradient.swift */; };
+		D86ACE9D2A4B848D0086650C /* GradientView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACE9C2A4B848D0086650C /* GradientView2.swift */; };
+		D86ACEA32A4B84FF0086650C /* Neumorphis1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACEA22A4B84FF0086650C /* Neumorphis1.swift */; };
+		D86ACEA52A4B85140086650C /* ShadowDrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86ACEA42A4B85140086650C /* ShadowDrop.swift */; };
 		D86D50762A47E81200691B72 /* UI_ExamplesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86D50752A47E81200691B72 /* UI_ExamplesApp.swift */; };
 		D86D50782A47E81200691B72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86D50772A47E81200691B72 /* ContentView.swift */; };
 		D86D507A2A47E81500691B72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D86D50792A47E81500691B72 /* Assets.xcassets */; };
@@ -25,24 +31,13 @@
 		D86D50942A47FEEC00691B72 /* Orbit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86D50932A47FEEC00691B72 /* Orbit.swift */; };
 		D86D50962A47FF9600691B72 /* Orbit-Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86D50952A47FF9600691B72 /* Orbit-Button.swift */; };
 		D8E6B0AD2A4804920041E77D /* Orbit-Design.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0AC2A4804920041E77D /* Orbit-Design.swift */; };
-		D8E6B0D52A4B79FF0041E77D /* ShadowDrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0D42A4B79FF0041E77D /* ShadowDrop.swift */; };
-		D8E6B0D72A4B7A0D0041E77D /* Neumorphis1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0D62A4B7A0D0041E77D /* Neumorphis1.swift */; };
 		D8E6B0DE2A4B7A250041E77D /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0D92A4B7A250041E77D /* CalculatorButton.swift */; };
 		D8E6B0DF2A4B7A250041E77D /* CalculatorMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0DA2A4B7A250041E77D /* CalculatorMain.swift */; };
 		D8E6B0E02A4B7A250041E77D /* CalcHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0DB2A4B7A250041E77D /* CalcHeader.swift */; };
 		D8E6B0E12A4B7A250041E77D /* CalcClassManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0DC2A4B7A250041E77D /* CalcClassManager.swift */; };
 		D8E6B0E22A4B7A250041E77D /* CalcScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0DD2A4B7A250041E77D /* CalcScreen.swift */; };
-		D8E6B0E52A4B7A410041E77D /* WinterCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0E32A4B7A400041E77D /* WinterCollection.swift */; };
-		D8E6B0E62A4B7A410041E77D /* Explore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0E42A4B7A400041E77D /* Explore.swift */; };
-		D8E6B0E82A4B7A4B0041E77D /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0E72A4B7A4B0041E77D /* Gradient.swift */; };
-		D8E6B0EA2A4B7A550041E77D /* GradientView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0E92A4B7A550041E77D /* GradientView2.swift */; };
 		D8E6B0EC2A4B7AE80041E77D /* MusicPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0EB2A4B7AE80041E77D /* MusicPlayer.swift */; };
 		D8E6B0EE2A4B7B260041E77D /* AnimatedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0ED2A4B7B260041E77D /* AnimatedButton.swift */; };
-		D8E6B0F02A4B7BD20041E77D /* Animating gestures .swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0EF2A4B7BD20041E77D /* Animating gestures .swift */; };
-		D8E6B0F22A4B7BDD0041E77D /* AnimatingGestures2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0F12A4B7BDD0041E77D /* AnimatingGestures2.swift */; };
-		D8E6B0F82A4B7D4A0041E77D /* GradientV3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0F72A4B7D4A0041E77D /* GradientV3.swift */; };
-		D8E6B0FA2A4B7DC60041E77D /* CircleInCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0F92A4B7DC60041E77D /* CircleInCircle.swift */; };
-		D8E6B0FE2A4B7DFA0041E77D /* SquareGrade.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E6B0FD2A4B7DFA0041E77D /* SquareGrade.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +45,14 @@
 		D86ACE742A4B82FC0086650C /* CircleGrade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGrade.swift; sourceTree = "<group>"; };
 		D86ACE762A4B831A0086650C /* CircleInCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleInCircle.swift; sourceTree = "<group>"; };
 		D86ACE782A4B83240086650C /* SquareGrade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareGrade.swift; sourceTree = "<group>"; };
+		D86ACE962A4B84550086650C /* Animating gestures .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animating gestures .swift"; sourceTree = "<group>"; };
+		D86ACE982A4B846E0086650C /* AnimatingGestures2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingGestures2.swift; sourceTree = "<group>"; };
+		D86ACE9A2A4B84800086650C /* Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient.swift; sourceTree = "<group>"; };
+		D86ACE9C2A4B848D0086650C /* GradientView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView2.swift; sourceTree = "<group>"; };
+		D86ACEA02A4B84D70086650C /* WinterCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = WinterCollection.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/WinterCollection.swift"; sourceTree = "<group>"; };
+		D86ACEA12A4B84E90086650C /* Explore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Explore.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/Explore.swift"; sourceTree = "<group>"; };
+		D86ACEA22A4B84FF0086650C /* Neumorphis1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neumorphis1.swift; sourceTree = "<group>"; };
+		D86ACEA42A4B85140086650C /* ShadowDrop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowDrop.swift; sourceTree = "<group>"; };
 		D86D50722A47E81200691B72 /* UI Examples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI Examples.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D86D50752A47E81200691B72 /* UI_ExamplesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI_ExamplesApp.swift; sourceTree = "<group>"; };
 		D86D50772A47E81200691B72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,24 +68,13 @@
 		D86D50932A47FEEC00691B72 /* Orbit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orbit.swift; sourceTree = "<group>"; };
 		D86D50952A47FF9600691B72 /* Orbit-Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Orbit-Button.swift"; sourceTree = "<group>"; };
 		D8E6B0AC2A4804920041E77D /* Orbit-Design.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Orbit-Design.swift"; sourceTree = "<group>"; };
-		D8E6B0D42A4B79FF0041E77D /* ShadowDrop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ShadowDrop.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/ShadowDrop.swift"; sourceTree = "<group>"; };
-		D8E6B0D62A4B7A0D0041E77D /* Neumorphis1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Neumorphis1.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/Neumorphism/Neumorphis1.swift"; sourceTree = "<group>"; };
 		D8E6B0D92A4B7A250041E77D /* CalculatorButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorButton.swift; sourceTree = "<group>"; };
 		D8E6B0DA2A4B7A250041E77D /* CalculatorMain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorMain.swift; sourceTree = "<group>"; };
 		D8E6B0DB2A4B7A250041E77D /* CalcHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalcHeader.swift; sourceTree = "<group>"; };
 		D8E6B0DC2A4B7A250041E77D /* CalcClassManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalcClassManager.swift; sourceTree = "<group>"; };
 		D8E6B0DD2A4B7A250041E77D /* CalcScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalcScreen.swift; sourceTree = "<group>"; };
-		D8E6B0E32A4B7A400041E77D /* WinterCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WinterCollection.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/WinterCollection.swift"; sourceTree = "<group>"; };
-		D8E6B0E42A4B7A400041E77D /* Explore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Explore.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/Explore.swift"; sourceTree = "<group>"; };
-		D8E6B0E72A4B7A4B0041E77D /* Gradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Gradient.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/Gradient.swift"; sourceTree = "<group>"; };
-		D8E6B0E92A4B7A550041E77D /* GradientView2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GradientView2.swift; path = "../../Recepies v3 Advanced/Recepies v3 Advanced/UI/GradientView2.swift"; sourceTree = "<group>"; };
 		D8E6B0EB2A4B7AE80041E77D /* MusicPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MusicPlayer.swift; path = ../../Playground/Playground/MusicPlayer.swift; sourceTree = "<group>"; };
 		D8E6B0ED2A4B7B260041E77D /* AnimatedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedButton.swift; sourceTree = "<group>"; };
-		D8E6B0EF2A4B7BD20041E77D /* Animating gestures .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Animating gestures .swift"; path = "../../Playground/Playground/Animating gestures .swift"; sourceTree = "<group>"; };
-		D8E6B0F12A4B7BDD0041E77D /* AnimatingGestures2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AnimatingGestures2.swift; path = ../../Playground/Playground/AnimatingGestures2.swift; sourceTree = "<group>"; };
-		D8E6B0F72A4B7D4A0041E77D /* GradientV3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientV3.swift; sourceTree = "<group>"; };
-		D8E6B0F92A4B7DC60041E77D /* CircleInCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CircleInCircle.swift; path = ../../GradientArt/GradientArt/CircleInCircle.swift; sourceTree = "<group>"; };
-		D8E6B0FD2A4B7DFA0041E77D /* SquareGrade.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SquareGrade.swift; path = ../../GradientArt/GradientArt/SquareGrade.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,8 +95,31 @@
 				D86ACE762A4B831A0086650C /* CircleInCircle.swift */,
 				D86ACE6E2A4B81980086650C /* RotationView.swift */,
 				D86ACE782A4B83240086650C /* SquareGrade.swift */,
+				D86ACE9A2A4B84800086650C /* Gradient.swift */,
+				D86ACE9C2A4B848D0086650C /* GradientView2.swift */,
+				D86ACEA22A4B84FF0086650C /* Neumorphis1.swift */,
+				D86ACEA42A4B85140086650C /* ShadowDrop.swift */,
 			);
 			name = "Gradients Group";
+			sourceTree = "<group>";
+		};
+		D86ACE9E2A4B84B60086650C /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				D8E6B0ED2A4B7B260041E77D /* AnimatedButton.swift */,
+				D86ACE962A4B84550086650C /* Animating gestures .swift */,
+				D86ACE982A4B846E0086650C /* AnimatingGestures2.swift */,
+			);
+			name = Animation;
+			sourceTree = "<group>";
+		};
+		D86ACE9F2A4B84D00086650C /* ShoppingApp */ = {
+			isa = PBXGroup;
+			children = (
+				D86ACEA12A4B84E90086650C /* Explore.swift */,
+				D86ACEA02A4B84D70086650C /* WinterCollection.swift */,
+			);
+			name = ShoppingApp;
 			sourceTree = "<group>";
 		};
 		D86D50692A47E81200691B72 = {
@@ -126,23 +141,13 @@
 		D86D50742A47E81200691B72 /* UI Examples */ = {
 			isa = PBXGroup;
 			children = (
-				D86D50752A47E81200691B72 /* UI_ExamplesApp.swift */,
-				D8E6B0E42A4B7A400041E77D /* Explore.swift */,
-				D8E6B0EB2A4B7AE80041E77D /* MusicPlayer.swift */,
-				D8E6B0F72A4B7D4A0041E77D /* GradientV3.swift */,
-				D86ACE702A4B828E0086650C /* Gradients Group */,
-				D8E6B0F92A4B7DC60041E77D /* CircleInCircle.swift */,
-				D8E6B0EF2A4B7BD20041E77D /* Animating gestures .swift */,
-				D8E6B0F12A4B7BDD0041E77D /* AnimatingGestures2.swift */,
-				D8E6B0FD2A4B7DFA0041E77D /* SquareGrade.swift */,
-				D8E6B0ED2A4B7B260041E77D /* AnimatedButton.swift */,
-				D8E6B0E32A4B7A400041E77D /* WinterCollection.swift */,
-				D8E6B0E72A4B7A4B0041E77D /* Gradient.swift */,
-				D8E6B0E92A4B7A550041E77D /* GradientView2.swift */,
 				D86D50772A47E81200691B72 /* ContentView.swift */,
-				D8E6B0D62A4B7A0D0041E77D /* Neumorphis1.swift */,
+				D86D50752A47E81200691B72 /* UI_ExamplesApp.swift */,
+				D8E6B0EB2A4B7AE80041E77D /* MusicPlayer.swift */,
+				D86ACE702A4B828E0086650C /* Gradients Group */,
+				D86ACE9E2A4B84B60086650C /* Animation */,
+				D86ACE9F2A4B84D00086650C /* ShoppingApp */,
 				D8E6B0D82A4B7A250041E77D /* Calculator */,
-				D8E6B0D42A4B79FF0041E77D /* ShadowDrop.swift */,
 				D86D50922A47FEDD00691B72 /* Orbit */,
 				D86D50912A47FE8000691B72 /* OnlineBanking */,
 				D86D50792A47E81500691B72 /* Assets.xcassets */,
@@ -186,8 +191,8 @@
 		D8E6B0D82A4B7A250041E77D /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				D8E6B0D92A4B7A250041E77D /* CalculatorButton.swift */,
 				D8E6B0DA2A4B7A250041E77D /* CalculatorMain.swift */,
+				D8E6B0D92A4B7A250041E77D /* CalculatorButton.swift */,
 				D8E6B0DB2A4B7A250041E77D /* CalcHeader.swift */,
 				D8E6B0DC2A4B7A250041E77D /* CalcClassManager.swift */,
 				D8E6B0DD2A4B7A250041E77D /* CalcScreen.swift */,
@@ -267,38 +272,33 @@
 			buildActionMask = 2147483647;
 			files = (
 				D86ACE772A4B831A0086650C /* CircleInCircle.swift in Sources */,
-				D8E6B0FE2A4B7DFA0041E77D /* SquareGrade.swift in Sources */,
+				D86ACEA32A4B84FF0086650C /* Neumorphis1.swift in Sources */,
 				D86D508E2A47F57C00691B72 /* OnlineBanking_Accounts_Item.swift in Sources */,
 				D8E6B0E22A4B7A250041E77D /* CalcScreen.swift in Sources */,
 				D8E6B0EC2A4B7AE80041E77D /* MusicPlayer.swift in Sources */,
 				D8E6B0E12A4B7A250041E77D /* CalcClassManager.swift in Sources */,
 				D86ACE752A4B82FC0086650C /* CircleGrade.swift in Sources */,
-				D8E6B0F82A4B7D4A0041E77D /* GradientV3.swift in Sources */,
 				D86D50782A47E81200691B72 /* ContentView.swift in Sources */,
-				D8E6B0FA2A4B7DC60041E77D /* CircleInCircle.swift in Sources */,
+				D86ACE9B2A4B84800086650C /* Gradient.swift in Sources */,
 				D86D508A2A47F14C00691B72 /* OnlineBanking- Header.swift in Sources */,
-				D8E6B0F02A4B7BD20041E77D /* Animating gestures .swift in Sources */,
-				D8E6B0E62A4B7A410041E77D /* Explore.swift in Sources */,
+				D86ACE992A4B846E0086650C /* AnimatingGestures2.swift in Sources */,
 				D86D50762A47E81200691B72 /* UI_ExamplesApp.swift in Sources */,
+				D86ACEA52A4B85140086650C /* ShadowDrop.swift in Sources */,
 				D8E6B0EE2A4B7B260041E77D /* AnimatedButton.swift in Sources */,
 				D8E6B0DE2A4B7A250041E77D /* CalculatorButton.swift in Sources */,
 				D86D50942A47FEEC00691B72 /* Orbit.swift in Sources */,
-				D8E6B0D72A4B7A0D0041E77D /* Neumorphis1.swift in Sources */,
 				D86D50882A47EE7200691B72 /* OnlineBanking_InfoButtons.swift in Sources */,
 				D86D508C2A47F44C00691B72 /* OnlineBanking-Accounts.swift in Sources */,
-				D8E6B0D52A4B79FF0041E77D /* ShadowDrop.swift in Sources */,
 				D86D50862A47E88200691B72 /* OnlineBanking-CreditCard.swift in Sources */,
 				D8E6B0AD2A4804920041E77D /* Orbit-Design.swift in Sources */,
-				D8E6B0F22A4B7BDD0041E77D /* AnimatingGestures2.swift in Sources */,
+				D86ACE972A4B84550086650C /* Animating gestures .swift in Sources */,
 				D86ACE6F2A4B81F10086650C /* RotationView.swift in Sources */,
 				D86D50842A47E85200691B72 /* OnlineBanking.swift in Sources */,
 				D86D50902A47F86900691B72 /* OnlineBanking-Toggle.swift in Sources */,
-				D8E6B0EA2A4B7A550041E77D /* GradientView2.swift in Sources */,
 				D86ACE792A4B83240086650C /* SquareGrade.swift in Sources */,
 				D8E6B0E02A4B7A250041E77D /* CalcHeader.swift in Sources */,
 				D8E6B0DF2A4B7A250041E77D /* CalculatorMain.swift in Sources */,
-				D8E6B0E82A4B7A4B0041E77D /* Gradient.swift in Sources */,
-				D8E6B0E52A4B7A410041E77D /* WinterCollection.swift in Sources */,
+				D86ACE9D2A4B848D0086650C /* GradientView2.swift in Sources */,
 				D86D50962A47FF9600691B72 /* Orbit-Button.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
